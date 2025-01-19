@@ -15,7 +15,7 @@
 
 ---
 
-# 💡 About Me
+# 💡 About Us
 
 We are a development team that creates programs.
 - **Languages**: Python, GoLang
