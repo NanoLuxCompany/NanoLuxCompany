@@ -18,14 +18,14 @@
 # 💡 About Us
 
 We are a development team that creates programs.
-- **Languages**: Python, GoLang
+- **Languages**: Python, GoLang, Lua
 - **Tools**:VS Code 
 
 ---
 
 ## 🌟 Let's Connect!
 
-🌐 **GitHub**: [github.com/msihek](https://github.com/NanoLuxCompany)  
+🌐 **GitHub**: [github.com/NanoLuxCompany](https://github.com/NanoLuxCompany)  
 
 ---
 
