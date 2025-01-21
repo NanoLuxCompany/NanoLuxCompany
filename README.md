@@ -17,7 +17,7 @@
 
 # 💡 About Us
 
-We are a development team that creates programs.
+Nanolux is a company based on the creation of programs/scripts
 - **Languages**: Python, GoLang, Lua
 - **Tools**:VS Code 
 
